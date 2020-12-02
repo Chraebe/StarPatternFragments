@@ -54,7 +54,7 @@
         </contributor>
     </contributors>
     <properties>
-        <jettyVersion>9.4.9.v20180320</jettyVersion>
+        <jettyVersion>9.4.35.v20201120</jettyVersion>
     </properties>
     <dependencies>
         <dependency>
